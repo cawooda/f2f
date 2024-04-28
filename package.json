@@ -1,0 +1,30 @@
+{
+  "name": "f2f",
+  "version": "1.0.0",
+  "description": "fist to five is a command line style page taking a vote and allowing contributors to vote from fist to five",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andrew cawood",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cawooda/f2f.git"
+  },
+  "keywords": [
+    "command",
+    "line",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/cawooda/f2f/issues"
+  },
+  "homepage": "https://github.com/cawooda/f2f#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jquery": "^3.7.1"
+  }
+}
